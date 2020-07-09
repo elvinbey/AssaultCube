@@ -1,0 +1,7 @@
+C:\Users\elvin\OneDrive\Masaüstü\Yedek\AssaultCube-master\AssaultCube\bin\Debug\AssaultCube.exe.config
+C:\Users\elvin\OneDrive\Masaüstü\Yedek\AssaultCube-master\AssaultCube\bin\Debug\AssaultCube.exe
+C:\Users\elvin\OneDrive\Masaüstü\Yedek\AssaultCube-master\AssaultCube\bin\Debug\AssaultCube.pdb
+C:\Users\elvin\OneDrive\Masaüstü\Yedek\AssaultCube-master\AssaultCube\obj\Debug\AssaultCube.csprojAssemblyReference.cache
+C:\Users\elvin\OneDrive\Masaüstü\Yedek\AssaultCube-master\AssaultCube\obj\Debug\AssaultCube.csproj.CoreCompileInputs.cache
+C:\Users\elvin\OneDrive\Masaüstü\Yedek\AssaultCube-master\AssaultCube\obj\Debug\AssaultCube.exe
+C:\Users\elvin\OneDrive\Masaüstü\Yedek\AssaultCube-master\AssaultCube\obj\Debug\AssaultCube.pdb
